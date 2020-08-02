@@ -23,6 +23,9 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-01-24 22:46:33</sys_updated_on>
         <table>x_58872_needit_needit</table>
+        <u_leave/>
+        <u_location/>
+        <u_state/>
         <uncancelable>false</uncancelable>
         <view_name/>
     </sys_ui_module>
